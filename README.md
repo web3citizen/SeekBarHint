@@ -1,5 +1,7 @@
 # SeekBarHint
 
+## Description
+
 ## Getting Started
 **1** In your `build.gradle`:
 
@@ -25,4 +27,8 @@ dependencies {
 ##TODO
 1. 添加自定义属性
 2. 添加不同形状popup text
-3. 其他
+3. 修复在ScrollView的bug 
+4. 其他
+
+##Thanks
+[progresshint](https://github.com/techery/progresshint)
