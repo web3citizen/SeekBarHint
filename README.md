@@ -1,7 +1,7 @@
 # SeekBarHint
 
 ## Description
-
+![image](https://github.com/thinkSky1206/SeekBarHint/blob/master/images/Screenshot_01.png)
 ## Getting Started
 **1** In your `build.gradle`:
 
